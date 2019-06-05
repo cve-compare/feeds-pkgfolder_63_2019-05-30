@@ -1,0 +1,19 @@
+{
+    "actions": [],
+    "advisories": {},
+    "muted": [],
+    "metadata": {
+        "vulnerabilities": {
+            "info": 0,
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "critical": 0
+        },
+        "dependencies": 988,
+        "devDependencies": 0,
+        "optionalDependencies": 0,
+        "totalDependencies": 988
+    },
+    "runId": "32237226-20bf-4e03-804d-a729dccb8f1f"
+}
